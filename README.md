@@ -7,7 +7,7 @@ No patient data was used.
 
 ## Contents
 - `Tauu987_track2_report.pdf` - full report (mechanism, ranked candidates, genotype decision table, validation plan, 25 references, AI disclosure)
-- `pitch.mp4` - 3-minute pitch video (synthetic English narration over slides)
+- `pitch.mp4` - 3-minute pitch video (also on YouTube: https://youtu.be/fU61OMql66s) (synthetic English narration over slides)
 - `make_video.ps1` - script that generated the pitch video (Windows SAPI text-to-speech + ffmpeg)
 
 ## Summary
@@ -29,3 +29,4 @@ Anthropic Claude (Claude Opus 5.5, personal consumer account; claude.ai and Clau
 OpenAI Codex (ChatGPT Plus) only as an independent reference checker. Only public information was provided to these tools.
 
 Not medical advice. License: CC BY 4.0.
+
